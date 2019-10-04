@@ -1,29 +1,17 @@
-# daniel.contagem.votos
+# mpe-contadordevotos
 
-## Project setup
+## Overview
 ```
-npm install
+✨ SPA para cadastro simples de candidatos para fazer apuração de votos em eleições simples.
 ```
-
-### Compiles and hot-reloads for development
+## Inclue
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+💖 Vue.JS
+📈 ApexCharts para acompanhamento da apuração de votos em tempo real
 ```
 
-### Run your tests
+### Build
 ```
-npm run test
+# Build em Electron para Windows
+npm run electron:build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
